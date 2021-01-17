@@ -1,0 +1,50 @@
+body {
+  text-align: center;
+  background-color: #f9f7f7;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 50px;
+  margin-right: 50px;
+  position: relative;
+font-family: 'Bebas Neue', cursive;
+
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+  width:  10%;
+  font-family: 'Sacramento', cursive;
+}
+
+h2{
+
+}
+
+h3 {
+}
+
+p {
+font-family: 'Roboto', sans-serif;
+  }
+
+.programador-image {
+  width: 20%;
+}
+
+
+.top-cloud{
+  position: absolute;
+  top: 40px;
+right: 300px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 380px;
+}
+
+.top-container{
+  padding-top: 100px;
+  background-color: #E4F9F5;
+  position: relative;
+}
